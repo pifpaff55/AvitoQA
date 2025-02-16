@@ -35,9 +35,9 @@
 ### Инструкция по запуску тестов
 1. Склонируйте к себе репозиторий, в котором хранится проект тестового задания, через выполнение команды в терминале
     ```
-    git clone https://github.com/Herzenswearme/AvitoTech_QA-trainee.git
+    git clone https://github.com/pifpaff55/AvitoQA.git
     ```
-    Или скачайте архив по [ссылке](https://github.com/pifpaff55/AvitoTechQA/archive/refs/heads/main.zip) и распакуйте его
+    Или скачайте архив по [ссылке](https://github.com/pifpaff55/AvitoQA/archive/refs/heads/master.zip) и распакуйте его
 
 
 2. Убедитесь, что на Вашем компьютере установлен Python. В командной строке/терминале выполните команду
